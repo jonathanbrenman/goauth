@@ -1,4 +1,4 @@
-module goauth/v1
+module github.com/jonathanbrenman/goauth
 
 go 1.14
 

@@ -3,7 +3,7 @@
 
 ### How to install?
 ```
-$ go get github.com/jonathanbrenman/goauth/v1
+$ go get github.com/jonathanbrenman/goauth
 ```
 
 ### How to create a token?
