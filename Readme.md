@@ -1,4 +1,4 @@
-# goauth
+# goauth [![Build Status](https://travis-ci.com/jonathanbrenman/goauth.svg)](https://travis-ci.com/jonathanbrenman/goauth)
 ## This is a library to use jwt-token (web)
 
 ### How to install?
