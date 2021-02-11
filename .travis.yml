@@ -1,11 +1,8 @@
 language: go
 go:
   - 1.14
-os:
-  - linux
-dist: trusty
-sudo: false
-install: true
+env:
+  - GO111MODULE=on
+install: truego t
 script:
-  - env GO111MODULE=on go build
-  - env GO111MODULE=on go test -v ./...
+  - go test
