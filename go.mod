@@ -1,5 +1,4 @@
-module github.com/jonathanbrenman/goauth
-
+module github.com/DUNA-E-Commmerce/goauth
 go 1.14
 
 require (
