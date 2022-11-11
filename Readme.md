@@ -1,9 +1,9 @@
-# goauth [![Build Status](https://travis-ci.com/jonathanbrenman/goauth.svg)](https://travis-ci.com/jonathanbrenman/goauth)
+# goauth
 ## This is a library to use jwt-token (web)
 
 ### How to install?
 ```
-$ go get github.com/jonathanbrenman/goauth
+$ go get github.com/DUNA-E-Commmerce/goauth
 ```
 
 ### How to create a token?
